@@ -13,17 +13,6 @@
         </samp>
 </h3>
 
-
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
 <p align="center">
  <a href="https://www.linkedin.com/in/bryan-vieira-b7938a271/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
