@@ -1,3 +1,8 @@
+<a href="https://komarev.com/ghpvc/?username=bryanvr8">
+  <img align="right" src="https://komarev.com/ghpvc/?username=bryanvr8&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -24,7 +29,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/assets/cypher.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  🏎️ &emsp; I like cars and racing in general<br/><br/>
  ❤️ &emsp; My favorite car is the Toyota Supra<br/><br/>
@@ -61,7 +66,7 @@
 
 <p align="center">
   <a href="https://github.com/bryanvr8">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanvr8&theme=radical&border=7F3FBF&background=34bdeb" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanvr8&theme=radical&border=34bdeb&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
@@ -72,9 +77,9 @@
 </p>
 
 <a> 
-    <a href="https://github.com/bryanvr8"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bryanvr8&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=34bdeb&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/bryanvr8"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bryanvr8&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=34bdeb&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/bryanvr8"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bryanvr8&show_icons=true&count_private=true&theme=react&border_color=34bdeb&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/bryanvr8"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bryanvr8&langs_count=8&layout=compact&theme=react&border_color=34bdeb&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bryanvr8&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=34bdeb&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bryanvr8&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=34bdeb&line=34bdeb&point=34bdeb&area_color=FFFFFF&title_color=FFFFFF&area=true)
