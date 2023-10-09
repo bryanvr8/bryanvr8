@@ -24,7 +24,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/assets/cypher.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://media.tenor.com/DUdBYjpwKUEAAAAM/csgo-dance.gif" alt="Coding gif" />
   
  🏎️ &emsp; I like cars and racing in general<br/><br/>
  ❤️ &emsp; My favorite car is the Toyota Supra<br/><br/>
