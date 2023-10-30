@@ -24,7 +24,7 @@
 # About me
 
 <p>
- <img align="right" width="250" src="https://media.tenor.com/C2_ew5vtPO8AAAAC/christware-csgo.gif" alt="Coding gif" />
+ <img align="right" width="250" src="https://media.tenor.com/S17uU3gXWiAAAAAC/sniper-dota2.gif" alt="Coding gif" />
   
  🏎️ &emsp; I like cars and racing in general<br/><br/>
  ❤️ &emsp; My favorite car is the Toyota Supra<br/><br/>
