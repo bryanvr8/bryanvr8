@@ -27,7 +27,6 @@
  <img align="right" width="250" src="https://i.pinimg.com/originals/1c/ba/66/1cba66c98464da8d4c04d020c9e31f0a.gif" alt="Omen gif" />
   
  🏎️ &emsp; I like cars and racing in general<br/><br/>
- ❤️ &emsp; My favorite car is the Toyota Supra<br/><br/>
  👨‍💻 &emsp; I am a Front-End developer<br/><br/>
 
 </p>
