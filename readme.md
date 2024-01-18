@@ -76,4 +76,4 @@
   <br/>
 </a>
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bryanvr8&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=34bdeb&line=34bdeb&point=34bdeb&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![bryan_vr8 Graph](https://github-readme-activity-graph.vercel.app/graph?username=bryanvr8&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=34bdeb&line=34bdeb&point=34bdeb&area_color=FFFFFF&title_color=FFFFFF&area=true)
