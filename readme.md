@@ -24,7 +24,7 @@
 # About me
 
 <p>
- <img align="right" width="250" src="https://i.pinimg.com/originals/1c/ba/66/1cba66c98464da8d4c04d020c9e31f0a.gif" alt="Omen gif" />
+ <img align="right" width="250" src="https://pa1.aminoapps.com/7257/46106b55301fbb71da341154e001918c7b563e93r1-400-225_hq.gif" alt="Goblin Slayer gif" />
   
  🏎️ &emsp; I like cars and racing in general<br/><br/>
  👨‍💻 &emsp; I am a Front-End developer<br/><br/>
