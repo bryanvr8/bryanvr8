@@ -53,27 +53,3 @@
 <p align="left">
   <a href="https://github.com/bryanvr8?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/bryanvr8">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryanvr8&theme=radical&border=34bdeb&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/bryanvr8">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryanvr8&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/bryanvr8"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bryanvr8&show_icons=true&count_private=true&theme=react&border_color=34bdeb&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/bryanvr8"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bryanvr8&langs_count=8&layout=compact&theme=react&border_color=34bdeb&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-![bryan_vr8 Graph](https://github-readme-activity-graph.vercel.app/graph?username=bryanvr8&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=34bdeb&line=34bdeb&point=34bdeb&area_color=FFFFFF&title_color=FFFFFF&area=true)
