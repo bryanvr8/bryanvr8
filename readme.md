@@ -25,10 +25,6 @@
 
 <p>
  <img align="right" width="350" src="https://media.tenor.com/GRtoaWi2Bi8AAAAM/deku-midoriya.gif" alt="Deku Dark gif" />
-  
- 🏎️ &emsp; I like cars and racing in general<br/><br/>
- 👨‍💻 &emsp; I am a Front-End developer<br/><br/>
-
 </p>
 
 <br/>
